@@ -1,16 +1,16 @@
 [
   {
     "id": "generative-ai-video-virtual-production-hub-reddit-1",
-    "title": "r/MachineLearning Research",
+    "title": "r/aivideo AI Filmmaking & Cinematography",
     "platform": "Reddit",
-    "category": "Machine Learning",
-    "memberCount": "2,900,000+ members",
-    "description": "Premier forum for machine learning research, theoretical papers, benchmark debates, and open-source models.",
-    "joinUrl": "https://www.reddit.com/r/MachineLearning/",
+    "category": "AI Video",
+    "memberCount": "190,000+ members",
+    "description": "The premier community for generative video creation, Runway Gen-3 workflows, Luma Dream Machine, and Kling AI.",
+    "joinUrl": "https://www.reddit.com/r/aivideo/",
     "tags": [
-      "machine-learning",
-      "ai",
-      "research",
+      "aivideo",
+      "cinematography",
+      "generative-video",
       "reddit"
     ],
     "verified": true,
@@ -18,16 +18,16 @@
   },
   {
     "id": "generative-ai-video-virtual-production-hub-reddit-2",
-    "title": "r/LocalLLaMA Open Models",
+    "title": "r/Midjourney Generative Visual Aesthetics",
     "platform": "Reddit",
-    "category": "Large Language Models",
-    "memberCount": "260,000+ members",
-    "description": "Leading community for running open weights LLMs locally, quantization (GGUF/AWQ), fine-tuning, and hardware benchmarks.",
-    "joinUrl": "https://www.reddit.com/r/LocalLLaMA/",
+    "category": "Midjourney",
+    "memberCount": "1,300,000+ members",
+    "description": "Photorealistic prompt engineering, lighting styles, camera lens simulations, and keyframe aesthetic design.",
+    "joinUrl": "https://www.reddit.com/r/Midjourney/",
     "tags": [
-      "localllama",
-      "ai",
-      "open-source",
+      "midjourney",
+      "prompt-engineering",
+      "aesthetics",
       "reddit"
     ],
     "verified": true,
@@ -35,476 +35,469 @@
   },
   {
     "id": "generative-ai-video-virtual-production-hub-reddit-3",
-    "title": "r/ChatGPT AI Community",
+    "title": "r/StableDiffusion Motion & Diffusion Workflows",
     "platform": "Reddit",
-    "category": "Generative AI",
-    "memberCount": "6,100,000+ members",
-    "description": "Vibrant discussion forum on OpenAI ChatGPT updates, prompt engineering strategies, custom GPTs, and creative workflows.",
-    "joinUrl": "https://www.reddit.com/r/ChatGPT/",
+    "category": "Diffusion",
+    "memberCount": "580,000+ members",
+    "description": "AnimateDiff, SVD (Stable Video Diffusion), ControlNet temporal consistency, and LoRA training.",
+    "joinUrl": "https://www.reddit.com/r/StableDiffusion/",
     "tags": [
-      "chatgpt",
-      "openai",
-      "prompts",
+      "stablediffusion",
+      "animatediff",
+      "svd",
       "reddit"
     ],
     "verified": true,
     "featured": true
   },
   {
-    "id": "generative-ai-video-virtual-production-hub-discord-4",
-    "title": "OpenAI Official Discord",
-    "platform": "Discord",
-    "category": "Generative AI",
-    "memberCount": "550,000+ members",
-    "description": "Official community server for OpenAI developers, GPT API architectures, assistants, and generative model updates.",
-    "joinUrl": "https://discord.gg/openai",
+    "id": "generative-ai-video-virtual-production-hub-reddit-4",
+    "title": "r/runwayml Gen-3 & AI Motion Tools",
+    "platform": "Reddit",
+    "category": "Runway",
+    "memberCount": "35,000+ members",
+    "description": "Runway Gen-2 & Gen-3 Alpha techniques, camera control parameters, motion brush workflows, and AI cinematography.",
+    "joinUrl": "https://www.reddit.com/r/runwayml/",
     "tags": [
-      "openai",
-      "chatgpt",
-      "api",
-      "discord"
+      "runway",
+      "gen3",
+      "motion-brush",
+      "reddit"
     ],
     "verified": true,
     "featured": false
   },
   {
-    "id": "generative-ai-video-virtual-production-hub-discord-5",
-    "title": "Midjourney Official Discord",
+    "id": "generative-ai-video-virtual-production-hub-reddit-5",
+    "title": "r/ComfyUI Node-Based Generative Video",
+    "platform": "Reddit",
+    "category": "ComfyUI",
+    "memberCount": "85,000+ members",
+    "description": "Advanced modular node graphs for video generation, frame interpolation, upscale workflows, and video-to-video.",
+    "joinUrl": "https://www.reddit.com/r/ComfyUI/",
+    "tags": [
+      "comfyui",
+      "workflows",
+      "nodes",
+      "reddit"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "generative-ai-video-virtual-production-hub-reddit-6",
+    "title": "r/PromptEngineering Video Prompts Guild",
+    "platform": "Reddit",
+    "category": "Prompting",
+    "memberCount": "140,000+ members",
+    "description": "Crafting high-precision prompts for camera motions, temporal coherence, shot sequencing, and dynamic actions.",
+    "joinUrl": "https://www.reddit.com/r/PromptEngineering/",
+    "tags": [
+      "prompting",
+      "cinematography",
+      "video-prompts",
+      "reddit"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "generative-ai-video-virtual-production-hub-discord-7",
+    "title": "Midjourney Official Creator Discord",
     "platform": "Discord",
-    "category": "Creative AI & Art",
-    "memberCount": "16,000,000+ members",
-    "description": "The largest generative art community in the world, featuring real-time image prompting, stylistic feedback, and gallery showcases.",
+    "category": "Midjourney",
+    "memberCount": "2,000,000+ members",
+    "description": "The largest generative art community in the world, featuring real-time image prompting and style exploration.",
     "joinUrl": "https://discord.gg/midjourney",
     "tags": [
       "midjourney",
-      "ai-art",
-      "prompts",
+      "art",
+      "creator",
       "discord"
     ],
     "verified": true,
     "featured": false
   },
   {
-    "id": "generative-ai-video-virtual-production-hub-discord-6",
-    "title": "Hugging Face Community Discord",
+    "id": "generative-ai-video-virtual-production-hub-discord-8",
+    "title": "OpenAI Sora & Generative AI Discord",
     "platform": "Discord",
-    "category": "Open Source AI",
-    "memberCount": "140,000+ members",
-    "description": "Hub for the open-source AI community discussing Transformers, Diffusers, model weights, and Hugging Face Spaces.",
-    "joinUrl": "https://discord.gg/huggingface",
+    "category": "OpenAI",
+    "memberCount": "200,000+ members",
+    "description": "Official community server for OpenAI developers, multimodal models, video prompting, and generation APIs.",
+    "joinUrl": "https://discord.gg/openai",
     "tags": [
-      "huggingface",
-      "transformers",
-      "open-source",
+      "openai",
+      "sora",
+      "multimodal",
       "discord"
     ],
     "verified": true,
     "featured": false
   },
   {
-    "id": "generative-ai-video-virtual-production-hub-reddit-7",
-    "title": "r/Midjourney Prompt Engineering",
-    "platform": "Reddit",
-    "category": "Creative AI & Art",
-    "memberCount": "1,300,000+ members",
-    "description": "Curated community sharing Midjourney prompt formulas, lighting styles, camera parameters, and generative showcases.",
-    "joinUrl": "https://www.reddit.com/r/Midjourney/",
-    "tags": [
-      "midjourney",
-      "prompts",
-      "ai-art",
-      "reddit"
-    ],
-    "verified": true,
-    "featured": false
-  },
-  {
-    "id": "generative-ai-video-virtual-production-hub-reddit-8",
-    "title": "r/StableDiffusion Local Art",
-    "platform": "Reddit",
-    "category": "Creative AI & Art",
-    "memberCount": "480,000+ members",
-    "description": "Community dedicated to Stable Diffusion checkpoints, LoRAs, ComfyUI workflows, ControlNet, and SDXL rendering.",
-    "joinUrl": "https://www.reddit.com/r/StableDiffusion/",
-    "tags": [
-      "stablediffusion",
-      "comfyui",
-      "ai-art",
-      "reddit"
-    ],
-    "verified": true,
-    "featured": false
-  },
-  {
-    "id": "generative-ai-video-virtual-production-hub-telegram-9",
-    "title": "AI Insights & Research Feed",
-    "platform": "Telegram",
-    "category": "AI Research",
-    "memberCount": "72,000+ members",
-    "description": "Fast-paced updates on frontier AI model releases, arXiv research papers, multimodal benchmarks, and open weights.",
-    "joinUrl": "https://t.me/ai_insights",
-    "tags": [
-      "ai",
-      "research",
-      "telegram",
-      "models"
-    ],
-    "verified": true,
-    "featured": false
-  },
-  {
-    "id": "generative-ai-video-virtual-production-hub-telegram-10",
-    "title": "Machine Learning Digest Channel",
-    "platform": "Telegram",
-    "category": "Machine Learning",
-    "memberCount": "58,000+ members",
-    "description": "Daily curated breakdown of machine learning algorithms, deep learning implementations, and neural net research.",
-    "joinUrl": "https://t.me/machinelearning_digest",
-    "tags": [
-      "machine-learning",
-      "telegram",
-      "digest",
-      "deep-learning"
-    ],
-    "verified": true,
-    "featured": false
-  },
-  {
-    "id": "generative-ai-video-virtual-production-hub-reddit-11",
-    "title": "r/PromptEngineering Elite",
-    "platform": "Reddit",
-    "category": "Prompt Engineering",
-    "memberCount": "110,000+ members",
-    "description": "Systematic discussion of prompt architecture, few-shot conditioning, chain-of-thought methods, and agentic workflows.",
-    "joinUrl": "https://www.reddit.com/r/PromptEngineering/",
-    "tags": [
-      "prompts",
-      "llm",
-      "agents",
-      "reddit"
-    ],
-    "verified": true,
-    "featured": false
-  },
-  {
-    "id": "generative-ai-video-virtual-production-hub-reddit-12",
-    "title": "r/ClaudeAI Anthropic Community",
-    "platform": "Reddit",
-    "category": "Large Language Models",
-    "memberCount": "95,000+ members",
-    "description": "Community focused on Anthropic's Claude models, Sonnet coding workflows, artifacts, and long-context capabilities.",
-    "joinUrl": "https://www.reddit.com/r/ClaudeAI/",
-    "tags": [
-      "claude",
-      "anthropic",
-      "llm",
-      "reddit"
-    ],
-    "verified": true,
-    "featured": false
-  },
-  {
-    "id": "generative-ai-video-virtual-production-hub-discord-13",
-    "title": "Anthropic Claude Discord",
+    "id": "generative-ai-video-virtual-production-hub-discord-9",
+    "title": "Anthropic Claude Prompt Engineering Discord",
     "platform": "Discord",
-    "category": "Large Language Models",
-    "memberCount": "62,000+ members",
-    "description": "Community server discussing Claude API integrations, prompt techniques, and AI safety evaluations.",
+    "category": "Anthropic",
+    "memberCount": "85,000+ members",
+    "description": "Official server for Claude developers creating detailed video scripts, character descriptions, and screenplays.",
     "joinUrl": "https://discord.gg/anthropic",
     "tags": [
       "claude",
-      "anthropic",
-      "api",
+      "screenplays",
+      "storyboarding",
       "discord"
     ],
     "verified": true,
     "featured": false
   },
   {
-    "id": "generative-ai-video-virtual-production-hub-discord-14",
-    "title": "LangChain Official Discord",
-    "platform": "Discord",
-    "category": "AI Engineering",
-    "memberCount": "80,000+ members",
-    "description": "Community dedicated to building LLM applications with LangChain, LangSmith, and LangGraph agent architectures.",
-    "joinUrl": "https://discord.gg/langchain",
-    "tags": [
-      "langchain",
-      "agents",
-      "ai",
-      "discord"
-    ],
-    "verified": true,
-    "featured": false
-  },
-  {
-    "id": "generative-ai-video-virtual-production-hub-forum-15",
-    "title": "Hugging Face Community Forums",
+    "id": "generative-ai-video-virtual-production-hub-forum-10",
+    "title": "Hugging Face Video & Vision Forum",
     "platform": "Forum",
-    "category": "Open Source AI",
-    "memberCount": "500,000+ members",
-    "description": "Official forum for open-source AI researchers, fine-tuning checkpoints, tokenizers, and PyTorch models.",
+    "category": "Hugging Face",
+    "memberCount": "80,000+ members",
+    "description": "Hub for open-source AI video models, diffusers pipeline, text-to-video benchmarks, and model checkpoints.",
     "joinUrl": "https://discuss.huggingface.co",
     "tags": [
       "huggingface",
-      "forum",
-      "transformers",
-      "pytorch"
+      "diffusers",
+      "video-models",
+      "forum"
     ],
     "verified": true,
     "featured": false
   },
   {
-    "id": "generative-ai-video-virtual-production-hub-github-16",
-    "title": "PyTorch GitHub Discussions",
-    "platform": "GitHub",
-    "category": "Machine Learning",
-    "memberCount": "90,000+ contributors",
-    "description": "Official PyTorch open-source discussions on CUDA acceleration, model architectures, and compiler backends.",
-    "joinUrl": "https://github.com/pytorch/pytorch/discussions",
-    "tags": [
-      "pytorch",
-      "github",
-      "deep-learning",
-      "cuda"
-    ],
-    "verified": true,
-    "featured": false
-  },
-  {
-    "id": "generative-ai-video-virtual-production-hub-forum-17",
-    "title": "OpenAI Developer Forum",
+    "id": "generative-ai-video-virtual-production-hub-forum-11",
+    "title": "OpenAI Research & Developers Forum",
     "platform": "Forum",
-    "category": "Generative AI",
-    "memberCount": "400,000+ members",
-    "description": "Official developer forum for troubleshooting OpenAI API endpoints, fine-tuning jobs, and function calling.",
+    "category": "Forum",
+    "memberCount": "250,000+ members",
+    "description": "Discussions on generative model architectures, synthetic datasets, and high-fidelity video generation.",
     "joinUrl": "https://community.openai.com",
     "tags": [
       "openai",
-      "forum",
-      "api",
-      "gpt-4"
+      "research",
+      "forum"
     ],
     "verified": true,
     "featured": false
   },
   {
-    "id": "generative-ai-video-virtual-production-hub-forum-18",
-    "title": "Kaggle Data & AI Discussions",
+    "id": "generative-ai-video-virtual-production-hub-forum-12",
+    "title": "Kaggle Vision & Diffusion Research Forum",
     "platform": "Forum",
-    "category": "Data Science & AI",
+    "category": "Kaggle",
     "memberCount": "1,500,000+ members",
-    "description": "Global competitions, notebook implementations, and deep-dive methodology discussions for ML practitioners.",
+    "description": "Computer vision researchers benchmarking video temporal consistency, image-to-video metrics, and diffusion.",
     "joinUrl": "https://www.kaggle.com/discussion",
     "tags": [
       "kaggle",
+      "computervision",
+      "diffusion",
+      "forum"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "generative-ai-video-virtual-production-hub-reddit-13",
+    "title": "r/MachineLearning Video Generative Models",
+    "platform": "Reddit",
+    "category": "Machine Learning",
+    "memberCount": "2,900,000+ members",
+    "description": "Premier forum for diffusion model research papers, spatio-temporal attention architectures, and benchmark debates.",
+    "joinUrl": "https://www.reddit.com/r/MachineLearning/",
+    "tags": [
       "machine-learning",
-      "forum",
-      "competitions"
+      "diffusion-papers",
+      "reddit"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "generative-ai-video-virtual-production-hub-reddit-14",
+    "title": "r/LocalLLaMA Multimodal & Vision LLMs",
+    "platform": "Reddit",
+    "category": "Local LLM",
+    "memberCount": "260,000+ members",
+    "description": "Running local multimodal models to analyze video frames, auto-generate captions, and execute video QA.",
+    "joinUrl": "https://www.reddit.com/r/LocalLLaMA/",
+    "tags": [
+      "localllama",
+      "multimodal",
+      "vision",
+      "reddit"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "generative-ai-video-virtual-production-hub-reddit-15",
+    "title": "r/ChatGPT Creative Direction & Scripts",
+    "platform": "Reddit",
+    "category": "ChatGPT",
+    "memberCount": "6,500,000+ members",
+    "description": "Prompting ChatGPT to act as a creative director, generate shot lists, camera directions, and dialogue.",
+    "joinUrl": "https://www.reddit.com/r/ChatGPT/",
+    "tags": [
+      "chatgpt",
+      "director",
+      "scripts",
+      "reddit"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "generative-ai-video-virtual-production-hub-reddit-16",
+    "title": "r/ClaudeAI Storyboards & Scenario Prompts",
+    "platform": "Reddit",
+    "category": "Claude",
+    "memberCount": "140,000+ members",
+    "description": "Using Claude 3.5 Sonnet to design complete cinematic narrative arcs, scene breakdowns, and storyboard scripts.",
+    "joinUrl": "https://www.reddit.com/r/ClaudeAI/",
+    "tags": [
+      "claude",
+      "storyboards",
+      "cinematic",
+      "reddit"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "generative-ai-video-virtual-production-hub-telegram-17",
+    "title": "AI Insights & Video Model Feed",
+    "platform": "Telegram",
+    "category": "AI News",
+    "memberCount": "55,000+ members",
+    "description": "Real-time updates on text-to-video AI model releases, Hugging Face demo spaces, and parameter releases.",
+    "joinUrl": "https://t.me/ai_insights",
+    "tags": [
+      "telegram",
+      "ai-video",
+      "releases",
+      "news"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "generative-ai-video-virtual-production-hub-telegram-18",
+    "title": "Machine Learning Video Digest Channel",
+    "platform": "Telegram",
+    "category": "ML Digest",
+    "memberCount": "40,000+ members",
+    "description": "Curated daily video generation papers, ComfyUI custom nodes, and generative art pipelines.",
+    "joinUrl": "https://t.me/machinelearning_digest",
+    "tags": [
+      "telegram",
+      "digest",
+      "comfyui",
+      "nodes"
     ],
     "verified": true,
     "featured": false
   },
   {
     "id": "generative-ai-video-virtual-production-hub-reddit-19",
-    "title": "r/Python Developer Community",
+    "title": "r/vfx Visual Effects & Compositing Pipeline",
     "platform": "Reddit",
-    "category": "Python Development",
-    "memberCount": "1,250,000+ members",
-    "description": "The premier community for Python engineers, covering news, PEP proposals, open-source packages, and architecture discussions.",
-    "joinUrl": "https://www.reddit.com/r/Python/",
+    "category": "VFX",
+    "memberCount": "180,000+ members",
+    "description": "Integrating AI video outputs with traditional Nuke compositing, camera tracking, and color grading.",
+    "joinUrl": "https://www.reddit.com/r/vfx/",
     "tags": [
-      "python",
-      "backend",
-      "software-engineering",
+      "vfx",
+      "compositing",
+      "color-grading",
       "reddit"
     ],
     "verified": true,
     "featured": false
   },
   {
-    "id": "generative-ai-video-virtual-production-hub-discord-20",
-    "title": "Python Official Discord",
-    "platform": "Discord",
-    "category": "Python Development",
-    "memberCount": "430,000+ members",
-    "description": "Active real-time developer server for Python help, code reviews, algorithmic design, and package development.",
-    "joinUrl": "https://discord.gg/python",
-    "tags": [
-      "python",
-      "discord",
-      "code-review",
-      "programming"
-    ],
-    "verified": true,
-    "featured": false
-  },
-  {
-    "id": "generative-ai-video-virtual-production-hub-telegram-21",
-    "title": "Python Developers Telegram Channel",
-    "platform": "Telegram",
-    "category": "Python Development",
-    "memberCount": "85,000+ members",
-    "description": "Curated daily Python scripts, architectural patterns, release alerts, and performance optimization guides.",
-    "joinUrl": "https://t.me/python_scripts",
-    "tags": [
-      "python",
-      "telegram",
-      "scripts",
-      "tips"
-    ],
-    "verified": true,
-    "featured": false
-  },
-  {
-    "id": "generative-ai-video-virtual-production-hub-reddit-22",
-    "title": "r/programming International",
+    "id": "generative-ai-video-virtual-production-hub-reddit-20",
+    "title": "r/blender 3D AI Synthesis & Render Pipeline",
     "platform": "Reddit",
-    "category": "General Programming",
-    "memberCount": "5,800,000+ members",
-    "description": "Major international hub for computer programming discussions, industry insights, and software development trends.",
-    "joinUrl": "https://www.reddit.com/r/programming/",
+    "category": "Blender",
+    "memberCount": "1,200,000+ members",
+    "description": "Generating 3D camera projection plates and combining Blender Cycles rendering with diffusion upscalers.",
+    "joinUrl": "https://www.reddit.com/r/blender/",
     "tags": [
-      "programming",
-      "engineering",
-      "industry",
+      "blender",
+      "cycles",
+      "projection",
       "reddit"
     ],
     "verified": true,
     "featured": false
   },
   {
-    "id": "generative-ai-video-virtual-production-hub-discord-23",
-    "title": "The Programmer's Hangout",
+    "id": "generative-ai-video-virtual-production-hub-discord-21",
+    "title": "Blender Official Creator Discord",
     "platform": "Discord",
-    "category": "Software Engineering",
-    "memberCount": "220,000+ members",
-    "description": "A collaborative multi-language developer Discord covering architecture, algorithms, career advice, and live coding.",
-    "joinUrl": "https://discord.gg/theprogrammershangout",
+    "category": "Blender Discord",
+    "memberCount": "180,000+ members",
+    "description": "Dedicated 3D community channels for environment artists, lighting leads, and video render optimization.",
+    "joinUrl": "https://discord.gg/blender",
     "tags": [
-      "programming",
-      "multi-language",
-      "discord",
-      "career"
-    ],
-    "verified": true,
-    "featured": false
-  },
-  {
-    "id": "generative-ai-video-virtual-production-hub-reddit-24",
-    "title": "r/rust Systems Programming",
-    "platform": "Reddit",
-    "category": "Systems Programming",
-    "memberCount": "280,000+ members",
-    "description": "Dedicated community for the Rust programming language focusing on memory safety, concurrency, and high-performance systems.",
-    "joinUrl": "https://www.reddit.com/r/rust/",
-    "tags": [
-      "rust",
-      "systems",
-      "concurrency",
-      "reddit"
-    ],
-    "verified": true,
-    "featured": false
-  },
-  {
-    "id": "generative-ai-video-virtual-production-hub-discord-25",
-    "title": "Rust Programming Language Discord",
-    "platform": "Discord",
-    "category": "Systems Programming",
-    "memberCount": "95,000+ members",
-    "description": "Official community Discord server for the Rust programming language with dedicated channels for crates, async, and compiler work.",
-    "joinUrl": "https://discord.gg/rust-lang",
-    "tags": [
-      "rust",
-      "systems",
-      "discord",
-      "compiler"
-    ],
-    "verified": true,
-    "featured": false
-  },
-  {
-    "id": "generative-ai-video-virtual-production-hub-telegram-26",
-    "title": "Rust Language News & Updates",
-    "platform": "Telegram",
-    "category": "Systems Programming",
-    "memberCount": "32,000+ members",
-    "description": "Real-time updates, releases, and deep-dive technical articles from the Rust systems ecosystem.",
-    "joinUrl": "https://t.me/rust_lang_news",
-    "tags": [
-      "rust",
-      "telegram",
-      "systems",
-      "updates"
-    ],
-    "verified": true,
-    "featured": false
-  },
-  {
-    "id": "generative-ai-video-virtual-production-hub-reddit-27",
-    "title": "r/javascript Global Hub",
-    "platform": "Reddit",
-    "category": "Web Development",
-    "memberCount": "2,400,000+ members",
-    "description": "Discussions, releases, frameworks, and architecture patterns from across the JavaScript and ECMAScript ecosystem.",
-    "joinUrl": "https://www.reddit.com/r/javascript/",
-    "tags": [
-      "javascript",
-      "webdev",
-      "frontend",
-      "reddit"
-    ],
-    "verified": true,
-    "featured": false
-  },
-  {
-    "id": "generative-ai-video-virtual-production-hub-discord-28",
-    "title": "Reactiflux Discord Community",
-    "platform": "Discord",
-    "category": "Frontend Engineering",
-    "memberCount": "210,000+ members",
-    "description": "The largest community of React, React Native, and full-stack JavaScript developers on Discord.",
-    "joinUrl": "https://discord.gg/reactiflux",
-    "tags": [
-      "react",
-      "frontend",
-      "javascript",
+      "blender",
+      "3d",
+      "rendering",
       "discord"
     ],
     "verified": true,
     "featured": false
   },
   {
-    "id": "generative-ai-video-virtual-production-hub-telegram-29",
-    "title": "Web Developers Network",
-    "platform": "Telegram",
-    "category": "Web Development",
-    "memberCount": "64,000+ members",
-    "description": "Public channel providing updates on frontend, backend, browser standards, and dev tooling.",
-    "joinUrl": "https://t.me/webdev_hub",
+    "id": "generative-ai-video-virtual-production-hub-forum-22",
+    "title": "Blender Artists Community Forum",
+    "platform": "Forum",
+    "category": "Blender Forum",
+    "memberCount": "210,000+ members",
+    "description": "The premier community forum for 3D digital art, animation showcases, render techniques, and critiques.",
+    "joinUrl": "https://blenderartists.org",
     "tags": [
-      "webdev",
-      "frontend",
-      "telegram",
-      "tooling"
+      "blenderartists",
+      "animation",
+      "forum"
     ],
     "verified": true,
     "featured": false
   },
   {
-    "id": "generative-ai-video-virtual-production-hub-reddit-30",
-    "title": "r/golang Backend Hub",
+    "id": "generative-ai-video-virtual-production-hub-reddit-23",
+    "title": "r/gamedev Procedural & Generative Art",
     "platform": "Reddit",
-    "category": "Backend Engineering",
-    "memberCount": "250,000+ members",
-    "description": "Community for Go programmers covering microservices, concurrency patterns, standard library best practices, and tooling.",
-    "joinUrl": "https://www.reddit.com/r/golang/",
+    "category": "Game Dev",
+    "memberCount": "1,450,000+ members",
+    "description": "Real-time cinematic shaders, procedural generation, virtual production in Unreal Engine, and assets.",
+    "joinUrl": "https://www.reddit.com/r/gamedev/",
     "tags": [
-      "golang",
-      "backend",
-      "concurrency",
+      "gamedev",
+      "virtual-production",
+      "shaders",
       "reddit"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "generative-ai-video-virtual-production-hub-discord-24",
+    "title": "Game Dev League Creator Discord",
+    "platform": "Discord",
+    "category": "Game Dev Discord",
+    "memberCount": "115,000+ members",
+    "description": "Server for technical artists, animators, cinematic directors, and virtual production supervisors.",
+    "joinUrl": "https://discord.gg/gamedev",
+    "tags": [
+      "gamedev",
+      "cinematics",
+      "discord"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "generative-ai-video-virtual-production-hub-telegram-25",
+    "title": "Indie Game & Art Telegram Channel",
+    "platform": "Telegram",
+    "category": "Art News",
+    "memberCount": "32,000+ members",
+    "description": "Curated asset drops, generative tool releases, and indie creator showcases.",
+    "joinUrl": "https://t.me/gamedev_channel",
+    "tags": [
+      "telegram",
+      "assets",
+      "creators"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "generative-ai-video-virtual-production-hub-discord-26",
+    "title": "Python Automation for Diffusion Discord",
+    "platform": "Discord",
+    "category": "Python",
+    "memberCount": "430,000+ members",
+    "description": "Scripting automated batch video generation pipelines, PyTorch tensor processing, and FFmpeg stitching.",
+    "joinUrl": "https://discord.gg/python",
+    "tags": [
+      "python",
+      "ffmpeg",
+      "discord"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "generative-ai-video-virtual-production-hub-telegram-27",
+    "title": "Python Video Processing Scripts Telegram",
+    "platform": "Telegram",
+    "category": "Scripts",
+    "memberCount": "85,000+ members",
+    "description": "Daily Python scripts for FFmpeg video upscaling, frame rate doubling (RIFE), and audio synchronization.",
+    "joinUrl": "https://t.me/python_scripts",
+    "tags": [
+      "telegram",
+      "ffmpeg",
+      "upscaling",
+      "scripts"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "generative-ai-video-virtual-production-hub-discord-28",
+    "title": "The Programmer's Hangout Discord",
+    "platform": "Discord",
+    "category": "Programming",
+    "memberCount": "220,000+ members",
+    "description": "Multi-language programming server covering GPU compute, CUDA optimizations, and asynchronous jobs.",
+    "joinUrl": "https://discord.gg/programming",
+    "tags": [
+      "programming",
+      "cuda",
+      "gpu",
+      "discord"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "generative-ai-video-virtual-production-hub-discord-29",
+    "title": "Tech Community Discord",
+    "platform": "Discord",
+    "category": "Tech",
+    "memberCount": "55,000+ members",
+    "description": "General technology server discussing next-gen camera sensors, compute hardware, and consumer AI.",
+    "joinUrl": "https://discord.gg/tech",
+    "tags": [
+      "tech",
+      "hardware",
+      "ai",
+      "discord"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "generative-ai-video-virtual-production-hub-telegram-30",
+    "title": "TechCrunch Frontier AI Coverage",
+    "platform": "Telegram",
+    "category": "AI News",
+    "memberCount": "65,000+ members",
+    "description": "Daily reports on generative AI startups, cinematic studio acquisitions, and venture capital rounds.",
+    "joinUrl": "https://t.me/techcrunch",
+    "tags": [
+      "telegram",
+      "ai-startups",
+      "news"
     ],
     "verified": true,
     "featured": false
