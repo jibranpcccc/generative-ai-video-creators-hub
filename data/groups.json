@@ -1,5 +1,24 @@
 [
   {
+    "id": "generative-ai-video-virtual-production-hub-reddit-4",
+    "title": "r/runwayml Gen-3 & AI Motion Tools",
+    "platform": "Reddit",
+    "category": "Runway",
+    "memberCount": "35,000+ members",
+    "description": "Runway Gen-2 & Gen-3 Alpha techniques, camera control parameters, motion brush workflows, and AI cinematography.",
+    "joinUrl": "https://www.reddit.com/r/runwayml/",
+    "tags": [
+      "runway",
+      "gen3",
+      "motion-brush",
+      "reddit"
+    ],
+    "verified": true,
+    "featured": true,
+    "isTodaysPick": true,
+    "lastUpdated": "2026-11-21"
+  },
+  {
     "id": "generative-ai-video-virtual-production-hub-reddit-3",
     "title": "r/StableDiffusion Motion & Diffusion Workflows",
     "platform": "Reddit",
@@ -15,7 +34,7 @@
     ],
     "verified": true,
     "featured": true,
-    "isTodaysPick": true,
+    "isTodaysPick": false,
     "lastUpdated": "2026-11-20"
   },
   {
@@ -207,24 +226,6 @@
     "featured": true,
     "isTodaysPick": false,
     "lastUpdated": "2026-09-13"
-  },
-  {
-    "id": "generative-ai-video-virtual-production-hub-reddit-4",
-    "title": "r/runwayml Gen-3 & AI Motion Tools",
-    "platform": "Reddit",
-    "category": "Runway",
-    "memberCount": "35,000+ members",
-    "description": "Runway Gen-2 & Gen-3 Alpha techniques, camera control parameters, motion brush workflows, and AI cinematography.",
-    "joinUrl": "https://www.reddit.com/r/runwayml/",
-    "tags": [
-      "runway",
-      "gen3",
-      "motion-brush",
-      "reddit"
-    ],
-    "verified": true,
-    "featured": false,
-    "isTodaysPick": false
   },
   {
     "id": "generative-ai-video-virtual-production-hub-reddit-5",
